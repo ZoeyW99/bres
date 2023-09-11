@@ -1,0 +1,56 @@
+city,Year,Predicted_GDP_growth
+London,2023,4.255
+London,2024,3.216
+London,2025,3.176
+London,2026,3.952
+London,2027,3.85
+Leeds,2023,3.877
+Leeds,2024,3.105
+Leeds,2025,2.325
+Leeds,2026,2.33
+Leeds,2027,3.193
+Edinburgh,2023,3.629
+Edinburgh,2024,3.122
+Edinburgh,2025,2.83
+Edinburgh,2026,3.871
+Edinburgh,2027,2.88
+Greater Manchester,2023,2.485
+Greater Manchester,2024,2.06
+Greater Manchester,2025,1.997
+Greater Manchester,2026,2.01
+Greater Manchester,2027,2.88
+Glasgow,2023,1.815
+Glasgow,2024,1.282
+Glasgow,2025,1.48
+Glasgow,2026,1.54
+Glasgow,2027,1.466
+Bristol,2023,-1.24
+Bristol,2024,-0.614
+Bristol,2025,-0.173
+Bristol,2026,-0.164
+Bristol,2027,-0.135
+Liverpool,2023,0.284
+Liverpool,2024,0.278
+Liverpool,2025,0.291
+Liverpool,2026,-0.245
+Liverpool,2027,0.291
+Sheffield,2023,-1.088
+Sheffield,2024,-0.516
+Sheffield,2025,0.32
+Sheffield,2026,-0.164
+Sheffield,2027,-0.215
+Cardiff,2023,0.827
+Cardiff,2024,0.819
+Cardiff,2025,0.786
+Cardiff,2026,0.776
+Cardiff,2027,0.446
+Greater Nottingham,2023,2.456
+Greater Nottingham,2024,1.909
+Greater Nottingham,2025,0.781
+Greater Nottingham,2026,0.807
+Greater Nottingham,2027,0.815
+Coventry,2023,0.66
+Coventry,2024,0.661
+Coventry,2025,0.773
+Coventry,2026,0.922
+Coventry,2027,0.706
